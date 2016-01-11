@@ -1,6 +1,6 @@
 {
-  "name": "balance/magento2-blog",
-  "description": "Blog module by Balance Internet",
+  "name": "dev/magento2-blog",
+  "description": "Blog module by Balance Internet, custom by dev",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
